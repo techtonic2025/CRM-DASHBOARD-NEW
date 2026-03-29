@@ -1,0 +1,13 @@
+Utilizza le skills che trovi all’interno del progetto. Se hai dubbi, chiedi. 
+Entra in modalità orchestratore.
+
+Sotto l’orchestratore, fai partire due sotto-agenti:
+- uno si deve occupare di ricreare il frontend
+- l’altro del backend
+
+L’agente del frontend deve utilizzare il prompt MD chiamato "prompt-front-end.md", che si trova nella cartella "prompt" del progetto.
+
+L’agente del backend deve utilizzare il prompt MD chiamato "prompt-backend.md", che si trova sempre nella cartella "prompt".
+
+Falli partire contemporaneamente e orchestra lo sviluppo.
+Adatta a ogni agente le skills adeguate.
